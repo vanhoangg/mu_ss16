@@ -1,0 +1,35 @@
+23:41:19 [SocketManager] Server started at port [55960]
+23:41:23 [ServerManager][0] AddServer (127.0.0.1)
+23:41:23 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+23:41:28 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+23:41:29 [ServerManager][1] AddServer (127.0.0.1)
+23:41:29 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+23:41:30 [DSF][RenewDSFPartyRank]2
+23:41:30 [DSF][RenewDSFPartyRank]3
+23:41:30 [DSF][RenewDSFPartyRank]4
+23:41:34 [ServerManager][2] AddServer (127.0.0.1)
+23:41:34 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+23:41:35 [DSF][RenewDSFPartyRank]2
+23:41:35 [DSF][RenewDSFPartyRank]3
+23:41:35 [DSF][RenewDSFPartyRank]4
+23:41:38 [ServerManager][2] DelServer (127.0.0.1)
+23:42:23 [ServerManager][0] DelServer (127.0.0.1)
+23:42:35 [SocketManager] Server started at port [55960]
+23:42:43 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+23:45:02 [SocketManager] Server started at port [55960]
+23:45:06 [ServerManager][0] AddServer (127.0.0.1)
+23:45:06 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+23:45:12 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+23:45:13 [ServerManager][1] AddServer (127.0.0.1)
+23:45:13 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+23:45:14 [DSF][RenewDSFPartyRank]2
+23:45:14 [DSF][RenewDSFPartyRank]3
+23:45:14 [DSF][RenewDSFPartyRank]4
+23:46:10 [ServerManager][2] AddServer (127.0.0.1)
+23:46:10 [ServerManager][2] DelServer (127.0.0.1)
+23:46:33 [ServerManager][2] AddServer (127.0.0.1)
+23:46:33 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+23:46:34 [DSF][RenewDSFPartyRank]2
+23:46:34 [DSF][RenewDSFPartyRank]3
+23:46:34 [DSF][RenewDSFPartyRank]4
+23:50:25 [ServerManager][0] DelServer (127.0.0.1)

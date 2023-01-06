@@ -1,0 +1,49 @@
+23:41:14 [SocketManager] Server started at port [44405]
+23:41:14 [ServerList] ServerList loaded successfully
+23:41:16 [Connection] connect() failed with error: 10061
+23:41:28 [Connection] connect() failed with error: 10061
+23:41:30 [ServerList] GameServer online (GameServer) (20)
+23:41:35 [ServerList] GameServer online (GameServerCS) (19)
+23:41:38 [Connection] connect() failed with error: 10061
+23:41:48 [Connection] connect() failed with error: 10061
+23:41:48 [ServerList] GameServer offline (GameServerCS) (19)
+23:41:58 [Connection] connect() failed with error: 10061
+23:42:08 [Connection] connect() failed with error: 10061
+23:42:18 [Connection] connect() failed with error: 10061
+23:44:58 [SocketManager] Server started at port [44405]
+23:44:58 [ServerList] ServerList loaded successfully
+23:45:00 [Connection] connect() failed with error: 10061
+23:45:12 [Connection] connect() failed with error: 10061
+23:45:14 [ServerList] GameServer online (GameServer) (20)
+23:45:22 [Connection] connect() failed with error: 10061
+23:45:32 [Connection] connect() failed with error: 10061
+23:45:42 [Connection] connect() failed with error: 10061
+23:45:52 [Connection] connect() failed with error: 10061
+23:46:02 [Connection] connect() failed with error: 10061
+23:46:12 [Connection] connect() failed with error: 10061
+23:46:22 [Connection] connect() failed with error: 10061
+23:46:32 [Connection] connect() failed with error: 10061
+23:46:34 [ServerList] GameServer online (GameServerCS) (19)
+23:46:42 [Connection] connect() failed with error: 10061
+23:46:52 [Connection] connect() failed with error: 10061
+23:47:02 [Connection] connect() failed with error: 10061
+23:47:12 [Connection] connect() failed with error: 10061
+23:47:22 [Connection] connect() failed with error: 10061
+23:47:32 [Connection] connect() failed with error: 10061
+23:47:42 [Connection] connect() failed with error: 10061
+23:47:52 [Connection] connect() failed with error: 10061
+23:48:02 [Connection] connect() failed with error: 10061
+23:48:12 [Connection] connect() failed with error: 10061
+23:48:22 [Connection] connect() failed with error: 10061
+23:48:32 [Connection] connect() failed with error: 10061
+23:48:42 [Connection] connect() failed with error: 10061
+23:48:52 [Connection] connect() failed with error: 10061
+23:49:02 [Connection] connect() failed with error: 10061
+23:49:12 [Connection] connect() failed with error: 10061
+23:49:22 [Connection] connect() failed with error: 10061
+23:49:32 [Connection] connect() failed with error: 10061
+23:49:42 [Connection] connect() failed with error: 10061
+23:49:52 [Connection] connect() failed with error: 10061
+23:50:02 [Connection] connect() failed with error: 10061
+23:50:12 [Connection] connect() failed with error: 10061
+23:50:22 [Connection] connect() failed with error: 10061
