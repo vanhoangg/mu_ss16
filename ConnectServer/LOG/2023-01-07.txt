@@ -1,0 +1,6 @@
+00:14:23 [SocketManager] Server started at port [44405]
+00:14:23 [ServerList] ServerList loaded successfully
+00:14:25 [Connection] connect() failed with error: 10061
+00:14:35 [ServerList] JoinServer online
+00:14:40 [ServerList] GameServer online (GameServer) (20)
+00:14:43 [ServerList] GameServer online (GameServerCS) (19)
