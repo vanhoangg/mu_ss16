@@ -152,10 +152,10 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 9999
-AddExperienceRate_AL1 = 9999
-AddExperienceRate_AL2 = 9999
-AddExperienceRate_AL3 = 9999
+AddExperienceRate_AL0 = 999
+AddExperienceRate_AL1 = 999
+AddExperienceRate_AL2 = 999
+AddExperienceRate_AL3 = 999
 AddMasterExperienceRate_AL0 = 5000
 AddMasterExperienceRate_AL1 = 5000
 AddMasterExperienceRate_AL2 = 5000
@@ -181,19 +181,19 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 20
-ItemDropRate_AL0 = 40
-ItemDropRate_AL1 = 40
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 40
+ItemDropRate_AL0 = 50
+ItemDropRate_AL1 = 50
+ItemDropRate_AL2 = 50
+ItemDropRate_AL3 = 50
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 10
-MoneyAmountDropRate_AL0 = 60
-MoneyAmountDropRate_AL1 = 60
-MoneyAmountDropRate_AL2 = 60
-MoneyAmountDropRate_AL3 = 60
+MoneyAmountDropRate_AL0 = 100
+MoneyAmountDropRate_AL1 = 100
+MoneyAmountDropRate_AL2 = 100
+MoneyAmountDropRate_AL3 = 100
 
 ;==================================================
 ; Item Durability Settings
@@ -232,17 +232,17 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 5
-DKLevelUpPoint = 5
-FELevelUpPoint = 5
-MGLevelUpPoint = 7
-DLLevelUpPoint = 7
-SULevelUpPoint = 5
-RFLevelUpPoint = 7
-GLLevelUpPoint = 7
-RWLevelUpPoint = 5
-SLLevelUpPoint = 5
-GCLevelUpPoint = 5
+DWLevelUpPoint = 10
+DKLevelUpPoint = 10
+FELevelUpPoint = 10
+MGLevelUpPoint = 14
+DLLevelUpPoint = 14
+SULevelUpPoint = 10
+RFLevelUpPoint = 14
+GLLevelUpPoint = 14
+RWLevelUpPoint = 10
+SLLevelUpPoint = 10
+GCLevelUpPoint = 10
 PlusStatPoint = 1
 
 ;==================================================
@@ -497,14 +497,14 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 80
-SoulSuccessRate_AL1 = 80
-SoulSuccessRate_AL2 = 80
-SoulSuccessRate_AL3 = 80
-LifeSuccessRate_AL0 = 80
-LifeSuccessRate_AL1 = 80
-LifeSuccessRate_AL2 = 80
-LifeSuccessRate_AL3 = 80
+SoulSuccessRate_AL0 = 70
+SoulSuccessRate_AL1 = 70
+SoulSuccessRate_AL2 = 70
+SoulSuccessRate_AL3 = 70
+LifeSuccessRate_AL0 = 70
+LifeSuccessRate_AL1 = 70
+LifeSuccessRate_AL2 = 70
+LifeSuccessRate_AL3 = 70
 HarmonySuccessRate_AL0 = 50
 HarmonySuccessRate_AL1 = 50
 HarmonySuccessRate_AL2 = 50

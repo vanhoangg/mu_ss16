@@ -31,6 +31,10 @@
 		<Config Class="891" Range="0" PositionX="119" PositionY="111" Direction="4" Element="0" /> <!-- "Wizard Guillard (NPC)"-- > 
 		<Config Class="492" Range="0" PositionX="141" PositionY="134" Direction="3" Element="0" /> <!-- "Moss"-- > 
 		<Config Class="406" Range="0" PositionX="142" PositionY="135" Direction="2" Element="0" /> <!-- "Apostle Devin"-- > 
+		<Config Class="231" Range="0" PositionX="128" PositionY="143" Direction="2" Element="0" /> <!-- "Thompson Kenel"-- > 
+		<Config Class="371" Range="0" PositionX="125" PositionY="143" Direction="2" Element="0" /> <!-- "Leo the Helper"-- > 
+		<Config Class="257" Range="0" PositionX="132" PositionY="138" Direction="2" Element="0" /> <!-- "Shadow Phantom Soldier"-- > 
+		<Config Class="252" Range="0" PositionX="132" PositionY="135" Direction="2" Element="0" /> <!-- ""-- > 
 	</NPC>
 	<SPOT>
 		<Config Class="3" Range="30" BeginPosX="180" BeginPosY="90" EndPosX="226" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- Spider-- > 
@@ -44,8 +48,6 @@
 		<Config Class="7" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="15" Element="0" /> <!-- Giant-- > 
 	</SPOT>
 	<MONSTER>
-		<Config Class="246" Range="0" PositionX="118" PositionY="140" Direction="2" Element="0" /> <!-- "Weapons Merchant Zienna"-- > 
-		<Config Class="248" Range="0" PositionX="120" PositionY="139" Direction="2" Element="0" /> <!-- "Wandering Merchant Martin"-- > 
 	</MONSTER>
 	<EVENT>
 	</EVENT>

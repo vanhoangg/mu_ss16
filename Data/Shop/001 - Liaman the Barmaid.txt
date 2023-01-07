@@ -1,4 +1,10 @@
-//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent.
+14          1       0       10     0       0      0        0
+14          2       0       10     0       0      0        0
+14          3       0       10     0       0      0        0
+14          4       0       10     0       0      0        0
+14          5       0       10     0       0      0        0
+14          6       0       10     0       0      0        0
 14          1       0       255     0       0      0        0
 14          2       0       255     0       0      0        0
 14          3       0       255     0       0      0        0

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+	<NPC>
+	</NPC>
+	<SPOT>
+		<Config Class="32" Range="1" BeginPosX="152" BeginPosY="137" EndPosX="152" EndPosY="137" Direction="2" Quantity="10" Element="0" /> <!-- Stone Golem-- > 
+		<Config Class="33" Range="1" BeginPosX="150" BeginPosY="146" EndPosX="150" EndPosY="146" Direction="2" Quantity="10" Element="0" /> <!-- Elite Goblin-- > 
+	</SPOT>
+	<MONSTER>
+	</MONSTER>
+	<EVENT>
+	</EVENT>
+</MonsterSetBase>
