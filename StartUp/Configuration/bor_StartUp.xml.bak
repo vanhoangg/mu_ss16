@@ -1,2 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Processes />
+<Processes>
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\ChatServer\ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\EXDataServer\EXDataServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="3000" Path="D:\source\mu ss16\[MUDevs Emulator Free] Repack Season 16.2-2\Files\GameServerCS\GameServer.exe" Parameters="" />
+</Processes>

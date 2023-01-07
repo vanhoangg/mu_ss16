@@ -1,0 +1,15 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//ID	Number	Value	Item	Level	Skill	Luck	Option	ExOpt	AncOp	JOH	Oexe	Socket1	Socket2	Socket3	Socket4	Socket5	Qtd	Duration	Comment
+1000	1000	100	94	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Silver Heart Magic Two Hand Sword (1 UN)
+1010	1010	100	93	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Blue Eye Magic Two Hand Sword (1 UN)
+1020	1020	100	92	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Soul Magic Two Hand Sword (1 UN)
+1030	1030	100	91	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Holy Angel Magic Two Hand Sword (1 UN)
+1040	1040	100	90	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Dark Angel Magic Two Hand Sword (1 UN)
+1050	1050	100	89	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Blood Angel Magic Two Hand Sword (1 UN)
+1060	1060	100	84	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Silver Heart Short Sword (1 UN)
+1070	1070	100	83	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Silver Heart Claw (1 UN)
+1080	1080	100	82	0	0	0	0	0	0	0	0	255	255	255	255	255	0	0	// Silver Heart Magic Sword (1 UN)
+end

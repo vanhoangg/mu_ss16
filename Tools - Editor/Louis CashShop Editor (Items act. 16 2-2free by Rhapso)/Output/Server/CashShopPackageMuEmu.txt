@@ -1,0 +1,15 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//Cat	ID	Main	Item	Coin	Price	Bonus	PBase1	PBase2	PBase3	PBase4	PBase5	PBase6	PBase7	PBase8	PBase9	PBase10	PMain1	PMain2	PMain3	PMain4	PMain5	PMain6	PMain7	PMain8	PMain9	PMain10	Comment
+31	100	100	1	508	100	0	1000	0	0	0	0	0	0	0	0	0	1000	0	0	0	0	0	0	0	0	0	// Silver Heart Magic Two Hand Sword
+31	101	101	1	508	100	0	1010	0	0	0	0	0	0	0	0	0	1010	0	0	0	0	0	0	0	0	0	// Blue Eye Magic Two Hand Sword
+31	102	102	1	508	100	0	1020	0	0	0	0	0	0	0	0	0	1020	0	0	0	0	0	0	0	0	0	// Soul Magic Two Hand Sword
+31	103	103	1	508	100	0	1030	0	0	0	0	0	0	0	0	0	1030	0	0	0	0	0	0	0	0	0	// Holy Angel Magic Two Hand Sword
+31	104	104	1	508	100	0	1040	0	0	0	0	0	0	0	0	0	1040	0	0	0	0	0	0	0	0	0	// Dark Angel Magic Two Hand Sword
+31	105	105	1	508	100	0	1050	0	0	0	0	0	0	0	0	0	1050	0	0	0	0	0	0	0	0	0	// Blood Angel Magic Two Hand Sword
+31	106	106	1	508	100	0	1060	0	0	0	0	0	0	0	0	0	1060	0	0	0	0	0	0	0	0	0	// Silver Heart Short Sword
+31	107	107	1	508	100	0	1070	0	0	0	0	0	0	0	0	0	1070	0	0	0	0	0	0	0	0	0	// Silver Heart Claw
+31	108	108	1	508	100	0	1080	0	0	0	0	0	0	0	0	0	1080	0	0	0	0	0	0	0	0	0	// Silver Heart Magic Sword
+end

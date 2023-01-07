@@ -1,0 +1,23 @@
+//|================================================================|
+//| Zythe CashShop Editor                                          |
+//| Credit: Zyth3/louis                          [skype:tec-facil] |
+//|================================================================|
+//CategoryID	PackageID	ItemGroup	ItemIndex	PurchaseType	Price	UseType	Gift	NumbeOfProductID	ProductID	Comment
+31	100	0	94	0	100	1	0	1	1000	// Silver Heart Magic Two Hand Sword
+end
+31	101	0	93	0	100	1	0	1	1010	// Blue Eye Magic Two Hand Sword
+end
+31	102	0	92	0	100	1	0	1	1020	// Soul Magic Two Hand Sword
+end
+31	103	0	91	0	100	1	0	1	1030	// Holy Angel Magic Two Hand Sword
+end
+31	104	0	90	0	100	1	0	1	1040	// Dark Angel Magic Two Hand Sword
+end
+31	105	0	89	0	100	1	0	1	1050	// Blood Angel Magic Two Hand Sword
+end
+31	106	0	84	0	100	1	0	1	1060	// Silver Heart Short Sword
+end
+31	107	0	83	0	100	1	0	1	1070	// Silver Heart Claw
+end
+31	108	0	82	0	100	1	0	1	1080	// Silver Heart Magic Sword
+end

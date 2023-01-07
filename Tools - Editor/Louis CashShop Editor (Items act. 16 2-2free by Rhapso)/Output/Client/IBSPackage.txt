@@ -1,0 +1,9 @@
+31@1@100@Silver Heart Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@94@2@1@1000|@0@508@669
+31@2@101@Blue Eye Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@93@2@1@1010|@0@508@669
+31@3@102@Soul Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@92@2@1@1020|@0@508@669
+31@4@103@Holy Angel Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@91@2@1@1030|@0@508@669
+31@5@104@Dark Angel Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@90@2@1@1040|@0@508@669
+31@6@105@Blood Angel Magic Two Hand Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@89@2@1@1050|@0@508@669
+31@7@106@Silver Heart Short Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@84@2@1@1060|@0@508@669
+31@8@107@Silver Heart Claw@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@83@2@1@1070|@0@508@669
+31@9@108@Silver Heart Magic Sword@170@100@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@82@2@1@1080|@0@508@669

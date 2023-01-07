@@ -1,0 +1,9 @@
+1000@Silver Heart Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1000@142@145@1@144@673@518@94@7@138@680
+1010@Blue Eye Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1010@142@145@1@144@673@518@93@7@138@680
+1020@Soul Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1020@142@145@1@144@673@518@92@7@138@680
+1030@Holy Angel Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1030@142@145@1@144@673@518@91@7@138@680
+1040@Dark Angel Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1040@142@145@1@144@673@518@90@7@138@680
+1050@Blood Angel Magic Two Hand Sword (1 UN)@Quantity@1@UN@100@1050@142@145@1@144@673@518@89@7@138@680
+1060@Silver Heart Short Sword (1 UN)@Quantity@1@UN@100@1060@142@145@1@144@673@518@84@7@138@680
+1070@Silver Heart Claw (1 UN)@Quantity@1@UN@100@1070@142@145@1@144@673@518@83@7@138@680
+1080@Silver Heart Magic Sword (1 UN)@Quantity@1@UN@100@1080@142@145@1@144@673@518@82@7@138@680
