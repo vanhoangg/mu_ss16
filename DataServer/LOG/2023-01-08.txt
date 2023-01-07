@@ -1,3 +1,38 @@
 00:19:13 EXEC WZ_BattleCore_AccountUserInfoSelect 'shin', 'ElfBiv', 1, 0
 00:19:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
 00:19:13 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [shin][ElfBiv] ServerCode:1, ServerType:0 
+00:26:35 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+00:26:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+00:26:35 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+00:38:37 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+00:38:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+00:38:37 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+02:46:07 [ServerManager][1] DelServer (127.0.0.1)
+02:46:13 [ServerManager][0] DelServer (127.0.0.1)
+02:46:25 [SocketManager] Server started at port [55960]
+02:46:29 [ServerManager][0] AddServer (127.0.0.1)
+02:46:29 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+02:46:34 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+02:46:37 [ServerManager][1] AddServer (127.0.0.1)
+02:46:37 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+02:46:38 [DSF][RenewDSFPartyRank]2
+02:46:38 [DSF][RenewDSFPartyRank]3
+02:46:38 [DSF][RenewDSFPartyRank]4
+02:46:40 [ServerManager][2] AddServer (127.0.0.1)
+02:46:40 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+02:46:41 [DSF][RenewDSFPartyRank]2
+02:46:41 [DSF][RenewDSFPartyRank]3
+02:46:41 [DSF][RenewDSFPartyRank]4
+02:48:07 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+02:48:07 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+02:48:07 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+03:04:19 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+03:04:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+03:04:19 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+03:42:16 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+03:42:16 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+03:42:16 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+03:42:37 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+03:42:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+03:42:37 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+04:55:31 [ServerManager][0] DelServer (127.0.0.1)

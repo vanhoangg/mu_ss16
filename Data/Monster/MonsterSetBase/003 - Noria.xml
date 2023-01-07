@@ -32,6 +32,8 @@
 		<Config Class="873" Range="0" PositionX="179" PositionY="126" Direction="1" Element="0" />
 		<!-- "Maple Tree" -->
 		<Config Class="874" Range="0" PositionX="179" PositionY="129" Direction="3" Element="0" />
+		<!-- "Wandering Merchant Zyro"-->
+		<Config Class="568" Range="0" PositionX="186" PositionY="109" Direction="2" Element="0" />
 	</NPC>
 	<!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>

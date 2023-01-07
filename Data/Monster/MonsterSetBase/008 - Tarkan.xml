@@ -17,7 +17,21 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="58" Range="5" BeginPosX="99" BeginPosY="142" EndPosX="99" EndPosY="143" Direction="-1" Quantity="10" Element="0" /> <!-- "Spider" -->
+	<!-- Quest -->
+		<Config Class="62" Range="5" BeginPosX="179" BeginPosY="111" EndPosX="177" EndPosY="113" Direction="-1" Quantity="7" Element="0" /> <!-- "Mutant" -->
+		<Config Class="60" Range="5" BeginPosX="133" BeginPosY="93" EndPosX="131" EndPosY="96" Direction="-1" Quantity="7" Element="0" /> <!-- "Bloody wolf" -->
+		<Config Class="57" Range="5" BeginPosX="60" BeginPosY="83" EndPosX="58" EndPosY="85" Direction="-1" Quantity="7" Element="0" /> <!-- "Iron Wheel" -->
+		<Config Class="58" Range="5" BeginPosX="31" BeginPosY="122" EndPosX="33" EndPosY="125" Direction="-1" Quantity="7" Element="0" /> <!-- "Tantalos" -->
+		<Config Class="61" Range="5" BeginPosX="93" BeginPosY="188" EndPosX="95" EndPosY="186" Direction="-1" Quantity="7" Element="0" /> <!-- "Beam Knight" -->
+		<!-- ========== My Spot ======== -->
+		<Config Class="58" Range="5" BeginPosX="100" BeginPosY="142" EndPosX="99" EndPosY="143" Direction="-1" Quantity="10" Element="0" /> <!-- "Tantalos" -->
+		<Config Class="61" Range="5" BeginPosX="101" BeginPosY="150" EndPosX="95" EndPosY="186" Direction="-1" Quantity="10" Element="0" /> <!-- "Beam Knight" -->
+
+
+
+
+
+
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
@@ -208,6 +222,8 @@
 		<Config Class="61" Range="30" PositionX="173" PositionY="221" Direction="-1" Element="0" /> <!-- "Beam Knight" -->
 		<Config Class="58" Range="30" PositionX="160" PositionY="203" Direction="-1" Element="0" /> <!-- "Tantalos" -->
 		<Config Class="63" Range="30" PositionX="161" PositionY="225" Direction="-1" Element="0" /> <!-- "Death Beam Knight" -->
+		<Config Class="63" Range="30" PositionX="112" PositionY="203" Direction="-1" Element="0" /> <!-- "Death Beam Knight" -->
+
 		<Config Class="61" Range="30" PositionX="161" PositionY="218" Direction="-1" Element="0" /> <!-- "Beam Knight" -->
 		<Config Class="61" Range="30" PositionX="157" PositionY="214" Direction="-1" Element="0" /> <!-- "Beam Knight" -->
 		<Config Class="61" Range="30" PositionX="153" PositionY="209" Direction="-1" Element="0" /> <!-- "Beam Knight" -->
