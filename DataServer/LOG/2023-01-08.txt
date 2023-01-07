@@ -1,0 +1,3 @@
+00:19:13 EXEC WZ_BattleCore_AccountUserInfoSelect 'shin', 'ElfBiv', 1, 0
+00:19:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+00:19:13 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [shin][ElfBiv] ServerCode:1, ServerType:0 
