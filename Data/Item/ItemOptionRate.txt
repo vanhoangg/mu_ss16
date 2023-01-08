@@ -1,6 +1,6 @@
 0
 //Index   Rate0   Rate1   Rate2   Rate3   Rate4   Rate5   Rate6   Rate7   Rate8   Rate9   Rate10   Rate11   Rate12   Rate13   Rate14   Rate15   Comment
-0         2000    2000    2000    2000    2000    0       0       0       0       0       0        0        0        0        0        0        //Level Option (Common)
+0         4440    2000    1500    1000    500     250     150     100     50      10      0        0        0        0        0        0        //Level Option (Common)
 1         10000   0       0       0       0       0       0       0       0       0       0        0        0        0        0        0        //Level Option (Exc)
 2         10000   0       0       0       0       0       0       0       0       0       0        0        0        0        0        0        //Level Option (Set)
 3         2000    2000    2000    2000    2000    0       0       0       0       0       0        0        0        0        0        0        //Level Option (ChaosItemMix)

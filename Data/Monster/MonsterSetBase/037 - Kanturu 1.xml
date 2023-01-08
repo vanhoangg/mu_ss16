@@ -5,7 +5,25 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="554" Range="30" BeginPosX="70" BeginPosY="167" EndPosX="70" EndPosY="167" Direction="-1" Quantity="2" Element="0" /> <!-- "Spider" -->
+		<Config Class="554" Range="5" BeginPosX="70" BeginPosY="167" EndPosX="70" EndPosY="167" Direction="-1" Quantity="10" Element="0" /> <!-- "Kentauros Warrior" -->
+		<!-- Quest -->
+		<Config Class="351" Range="5" BeginPosX="49" BeginPosY="231" EndPosX="49" EndPosY="231" Direction="-1" Quantity="7" Element="0" /> <!-- "Splinter Wolf" -->
+		<Config Class="352"  Range="5" BeginPosX="197" BeginPosY="194" EndPosX="197" EndPosY="194" Direction="-1" Quantity="7" Element="0" /> <!-- "Iron Rider" -->
+		<Config Class="353" Range="5" BeginPosX="230" BeginPosY="85" EndPosX="230" EndPosY="85" Direction="-1" Quantity="7" Element="0"  /> <!-- "Satyros" -->
+		<Config Class="354" Range="5" BeginPosX="207" BeginPosY="37" EndPosX="207" EndPosY="37" Direction="-1" Quantity="7" Element="0" /> <!-- "Blade Hunter" -->
+		<Config Class="350" Range="5" BeginPosX="165" BeginPosY="36" EndPosX="165" EndPosY="36" Direction="-1" Quantity="7" Element="0" /> <!-- "Berserker" -->
+		<Config Class="355" Range="5" BeginPosX="115" BeginPosY="60" EndPosX="115" EndPosY="60" Direction="-1" Quantity="7" Element="0" /> <!-- "Kentauros" -->
+		<Config Class="357" Range="5" BeginPosX="57" BeginPosY="38" EndPosX="57" EndPosY="38" Direction="-1" Quantity="7" Element="0" /> <!-- "Genocider" -->
+		<Config Class="356" Range="5" BeginPosX="86" BeginPosY="25" EndPosX="86" EndPosY="25" Direction="-1" Quantity="7" Element="0" /> <!-- "Gigantis" -->
+
+
+
+
+
+
+
+
+
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

@@ -36,3 +36,30 @@
 03:42:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
 03:42:37 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
 04:55:31 [ServerManager][0] DelServer (127.0.0.1)
+12:40:41 [SocketManager] Server started at port [55960]
+12:40:46 [ServerManager][0] AddServer (127.0.0.1)
+12:40:46 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+12:40:51 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+12:40:53 [ServerManager][1] AddServer (127.0.0.1)
+12:40:53 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+12:40:54 [DSF][RenewDSFPartyRank]2
+12:40:54 [DSF][RenewDSFPartyRank]3
+12:40:54 [DSF][RenewDSFPartyRank]4
+12:41:03 [ServerManager][0] DelServer (127.0.0.1)
+12:41:14 [SocketManager] Server started at port [55960]
+12:41:19 [ServerManager][0] AddServer (127.0.0.1)
+12:41:19 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+12:41:24 [ServerManager][1] AddServer (127.0.0.1)
+12:41:24 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+12:41:24 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+12:41:25 [DSF][RenewDSFPartyRank]2
+12:41:25 [DSF][RenewDSFPartyRank]3
+12:41:25 [DSF][RenewDSFPartyRank]4
+12:41:26 [ServerManager][2] AddServer (127.0.0.1)
+12:41:26 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+12:41:27 [DSF][RenewDSFPartyRank]2
+12:41:27 [DSF][RenewDSFPartyRank]3
+12:41:27 [DSF][RenewDSFPartyRank]4
+12:48:57 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+12:48:57 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+12:48:57 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 

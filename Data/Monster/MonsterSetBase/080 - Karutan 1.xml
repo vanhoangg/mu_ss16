@@ -7,9 +7,19 @@
 		<Config Class="240" Range="0" PositionX="123" PositionY="132" Direction="2" Element="0" /> <!-- "Safety Guardian" -->
 		<Config Class="240" Range="0" PositionX="122" PositionY="96" Direction="3" Element="0" /> <!-- "Safety Guardian" -->
 		<Config Class="240" Range="0" PositionX="157" PositionY="127" Direction="1" Element="0" /> <!-- "Safety Guardian" -->
+		
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
+	<!-- Quest -->
+		<Config Class="569" Range="5" BeginPosX="143" BeginPosY="74" EndPosX="143" EndPosY="74" Direction="-1" Quantity="7" Element="0" /> <!-- "Venomous Chain Scorpion" -->
+		<Config Class="570" Range="5" BeginPosX="183" BeginPosY="108" EndPosX="183" EndPosY="108" Direction="-1" Quantity="7" Element="0" /> <!-- "Bone Scorpion" -->
+		<Config Class="571" Range="5" BeginPosX="191" BeginPosY="155" EndPosX="191" EndPosY="155" Direction="-1" Quantity="7" Element="0" /> <!-- "Orcus" -->
+		<Config Class="574" Range="5" BeginPosX="66" BeginPosY="172" EndPosX="66" EndPosY="172" Direction="-1" Quantity="7" Element="0" /> <!-- "Crypos" -->
+
+
+
+
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

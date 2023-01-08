@@ -20,3 +20,12 @@
 04:55:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:03E1871A-A5CCF1B6-C36C8F79-8941D8E7-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:ntmd]
 04:55:31 [ServerManager][0] DelServer (127.0.0.1)
 04:55:31 [ServerManager][1] DelServer (127.0.0.1)
+12:40:46 [SocketManager] Server started at port [55970]
+12:40:46 [SocketManager] Server started at port [55557]
+12:40:46 [ServerManager][0] AddServer (127.0.0.1)
+12:40:46 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+12:40:49 [ServerManager][1] AddServer (127.0.0.1)
+12:40:53 [ServerManager][2] AddServer (127.0.0.1)
+12:40:53 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+12:41:03 [ServerManager][0] DelServer (127.0.0.1)
+12:41:03 [ServerManager][1] DelServer (127.0.0.1)

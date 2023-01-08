@@ -152,10 +152,10 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 1
-AddExperienceRate_AL1 = 1
-AddExperienceRate_AL2 = 1
-AddExperienceRate_AL3 = 1
+AddExperienceRate_AL0 = 100
+AddExperienceRate_AL1 = 100
+AddExperienceRate_AL2 = 100
+AddExperienceRate_AL3 = 100
 AddMasterExperienceRate_AL0 = 5000
 AddMasterExperienceRate_AL1 = 5000
 AddMasterExperienceRate_AL2 = 5000
