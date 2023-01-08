@@ -13,3 +13,4 @@
 16:22:27 [AccountInfo] Account connected (Account: ntmd, IpAddress: 192.168.243.1, GameServerCode: 20)
 17:07:02 [AccountInfo] Account disconnected (Account: shin, IpAddress: 192.168.243.1, GameServerCode: 20)
 17:07:02 [AccountInfo] Account disconnected (Account: ntmd, IpAddress: 192.168.243.1, GameServerCode: 20)
+17:10:34 [AccountInfo] Account connected (Account: ntmd, IpAddress: 192.168.243.1, GameServerCode: 20)
