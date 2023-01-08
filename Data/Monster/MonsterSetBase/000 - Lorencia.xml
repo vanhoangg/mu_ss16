@@ -61,8 +61,6 @@
 		<Config Class="248" Range="0" PositionX="124" PositionY="145" Direction="2" Element="0" />
 		<!-- "Thompson Kenel"-->
 		<Config Class="231" Range="0" PositionX="127" PositionY="145" Direction="1" Element="0" />
-		<!-- "Leo the Helper"-->
-		<Config Class="371" Range="0" PositionX="122" PositionY="143" Direction="2" Element="0" />
 	</NPC>
 	<SPOT>
 

@@ -63,3 +63,26 @@
 12:48:57 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
 12:48:57 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
 12:48:57 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+15:56:37 EXEC WZ_BattleCore_All_GetAndUpdate_RewardInfo 0, 'GLBiv', 1, 9 
+15:56:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreReward'.
+15:56:37 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_All_GetAndUpdate_RewardInfo] [ServerKind:0][GLBiv][1][9]
+16:03:13 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+16:03:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:03:13 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+16:11:47 EXEC WZ_BattleCore_AccountUserInfoSelect 'shin', 'ElfBiv', 1, 0
+16:11:47 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:11:47 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [shin][ElfBiv] ServerCode:1, ServerType:0 
+16:12:02 EXEC WZ_BattleCore_AccountUserInfoSelect 'shin', 'DLBiv', 1, 0
+16:12:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:12:02 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [shin][DLBiv] ServerCode:1, ServerType:0 
+16:22:29 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+16:22:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:22:29 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+16:44:44 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 0, 0
+16:44:44 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:44:44 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:0, ServerType:0 
+16:44:53 EXEC WZ_BattleCore_AccountUserInfoSelect 'ntmd', 'GLBiv', 1, 0
+16:44:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+16:44:53 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [ntmd][GLBiv] ServerCode:1, ServerType:0 
+17:07:01 EXEC WZ_GuildMemberBuffDelete 179
+17:07:01 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'WZ_GuildMemberBuffDelete'.

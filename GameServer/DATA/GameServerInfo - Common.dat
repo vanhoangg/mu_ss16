@@ -86,7 +86,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 100
+MonsterLifeRate = 50
 MonsterHealthBarSwitch = 1
 MonsterReturnTime = 4
 
@@ -152,10 +152,10 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 100
-AddExperienceRate_AL1 = 100
-AddExperienceRate_AL2 = 100
-AddExperienceRate_AL3 = 100
+AddExperienceRate_AL0 = 10
+AddExperienceRate_AL1 = 10
+AddExperienceRate_AL2 = 10
+AddExperienceRate_AL3 = 10
 AddMasterExperienceRate_AL0 = 5000
 AddMasterExperienceRate_AL1 = 5000
 AddMasterExperienceRate_AL2 = 5000
