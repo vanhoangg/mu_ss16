@@ -38,45 +38,45 @@
 	<!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
 		<!-- "Spider" -->
-		<Config Class="3" Range="30" BeginPosX="139" BeginPosY="63" EndPosX="247" EndPosY="164" Direction="-1" Quantity="60" Element="0" />
+		<Config Class="3" Range="15" BeginPosX="139" BeginPosY="63" EndPosX="247" EndPosY="164" Direction="-1" Quantity="60" Element="0" />
 		<!-- "Goblin" -->
-		<Config Class="26" Range="30" BeginPosX="109" BeginPosY="46" EndPosX="154" EndPosY="181" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="26" Range="15" BeginPosX="109" BeginPosY="46" EndPosX="154" EndPosY="181" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Goblin" -->
-		<Config Class="26" Range="30" BeginPosX="136" BeginPosY="156" EndPosX="247" EndPosY="204" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="26" Range="15" BeginPosX="136" BeginPosY="156" EndPosX="247" EndPosY="204" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Goblin" -->
-		<Config Class="26" Range="30" BeginPosX="135" BeginPosY="42" EndPosX="247" EndPosY="73" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="26" Range="15" BeginPosX="135" BeginPosY="42" EndPosX="247" EndPosY="73" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Chain Scorpion" -->
-		<Config Class="27" Range="30" BeginPosX="109" BeginPosY="46" EndPosX="154" EndPosY="181" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="27" Range="15" BeginPosX="109" BeginPosY="46" EndPosX="154" EndPosY="181" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Chain Scorpion" -->
-		<Config Class="27" Range="30" BeginPosX="135" BeginPosY="42" EndPosX="247" EndPosY="73" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="27" Range="15" BeginPosX="135" BeginPosY="42" EndPosX="247" EndPosY="73" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Chain Scorpion" -->
-		<Config Class="27" Range="30" BeginPosX="136" BeginPosY="156" EndPosX="247" EndPosY="204" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="27" Range="15" BeginPosX="136" BeginPosY="156" EndPosX="247" EndPosY="204" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Elite Goblin" -->
-		<Config Class="33" Range="30" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="33" Range="15" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Elite Goblin" -->
-		<Config Class="33" Range="30" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="33" Range="15" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Beetle Monster" -->
-		<Config Class="28" Range="30" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="28" Range="15" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Beetle Monster" -->
-		<Config Class="28" Range="30" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="28" Range="15" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Hunter" -->
-		<Config Class="29" Range="30" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="29" Range="15" BeginPosX="106" BeginPosY="3" EndPosX="247" EndPosY="40" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Hunter" -->
-		<Config Class="29" Range="30" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="29" Range="15" BeginPosX="59" BeginPosY="6" EndPosX="128" EndPosY="106" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Forest Monster" -->
-		<Config Class="30" Range="30" BeginPosX="7" BeginPosY="4" EndPosX="63" EndPosY="176" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="30" Range="15" BeginPosX="7" BeginPosY="4" EndPosX="63" EndPosY="176" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Forest Monster" -->
-		<Config Class="30" Range="30" BeginPosX="41" BeginPosY="107" EndPosX="107" EndPosY="181" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="30" Range="15" BeginPosX="41" BeginPosY="107" EndPosX="107" EndPosY="181" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Forest Monster" -->
-		<Config Class="30" Range="30" BeginPosX="105" BeginPosY="184" EndPosX="247" EndPosY="246" Direction="-1" Quantity="10" Element="0" />
+		<Config Class="30" Range="15" BeginPosX="105" BeginPosY="184" EndPosX="247" EndPosY="246" Direction="-1" Quantity="10" Element="0" />
 		<!-- "Agon" -->
-		<Config Class="31" Range="30" BeginPosX="7" BeginPosY="4" EndPosX="63" EndPosY="176" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="31" Range="15" BeginPosX="7" BeginPosY="4" EndPosX="63" EndPosY="176" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Agon" -->
-		<Config Class="31" Range="30" BeginPosX="41" BeginPosY="107" EndPosX="107" EndPosY="181" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="31" Range="15" BeginPosX="41" BeginPosY="107" EndPosX="107" EndPosY="181" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Agon" -->
-		<Config Class="31" Range="30" BeginPosX="105" BeginPosY="184" EndPosX="247" EndPosY="246" Direction="-1" Quantity="20" Element="0" />
+		<Config Class="31" Range="15" BeginPosX="105" BeginPosY="184" EndPosX="247" EndPosY="246" Direction="-1" Quantity="20" Element="0" />
 		<!-- "Stone Golem" -->
-		<Config Class="32" Range="30" BeginPosX="4" BeginPosY="168" EndPosX="115" EndPosY="248" Direction="-1" Quantity="40" Element="0" />
+		<Config Class="32" Range="15" BeginPosX="4" BeginPosY="168" EndPosX="115" EndPosY="248" Direction="-1" Quantity="40" Element="0" />
 		<!-- My Spot -->
 		<!-- Stone Golem -->
 		<Config Class="32" Range="1" BeginPosX="146" BeginPosY="115" EndPosX="148" EndPosY="113" Direction="2" Quantity="10" Element="0" />

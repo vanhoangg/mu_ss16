@@ -16,6 +16,7 @@
 		<Config Class="570" Range="5" BeginPosX="183" BeginPosY="108" EndPosX="183" EndPosY="108" Direction="-1" Quantity="7" Element="0" /> <!-- "Bone Scorpion" -->
 		<Config Class="571" Range="5" BeginPosX="191" BeginPosY="155" EndPosX="191" EndPosY="155" Direction="-1" Quantity="7" Element="0" /> <!-- "Orcus" -->
 		<Config Class="574" Range="5" BeginPosX="66" BeginPosY="172" EndPosX="66" EndPosY="172" Direction="-1" Quantity="7" Element="0" /> <!-- "Crypos" -->
+		<Config Class="573" Range="5" BeginPosX="35" BeginPosY="132" EndPosX="35" EndPosY="132" Direction="-1" Quantity="7" Element="0" /> <!-- "Crypta" -->
 
 
 
