@@ -16446,3 +16446,4 @@
 15:28:33 [ArcaBattle] ArcaBattle Proc State [0]
 15:28:33 [AcheronGuardian] Acheron Event Play [1]
 15:28:33 [ RAKLION ] State(10) -> IDLE
+15:29:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
